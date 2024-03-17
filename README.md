@@ -52,12 +52,20 @@ command.
 
 ### 6. Run
 change the ROBOT_NAME in default.sh in launchers folder
+
 To build:
 ```dts devel build -H ROBOT_NAME -f``` or ```dts devel build -f```
 
 To run:
 ```dts devel run -H ROBOT_NAME``` or ```dts devel run -R ROBOT_NAME```
 
-You can see results in presentation videos.
+results:
+Duckiebot detecting to AprilTags and responding with different lights:
+
+https://github.com/ManjunathNaidugari/Duckietown/assets/85050988/1338df4e-9764-4bd2-820e-67c3d48f5519
+
+Duckiebot lane following:
+
+https://github.com/ManjunathNaidugari/Duckietown/assets/85050988/21acf259-fd14-456f-8684-1c6b25bd2677
 
 The code in this directory is taken and adapted from [dt-core](https://github.com/duckietown/dt-core) and [Adventures-in-Duckietown](https://github.com/ekhumbata/Adventures-in-Duckietown)
