@@ -57,3 +57,5 @@ To build:
 
 To run:
 ```dts devel run -H ROBOT_NAME``` or ```dts devel run -R ROBOT_NAME```
+
+The code in this directory is taken and adapted from [dt-core](https://github.com/duckietown/dt-core) and [here](https://github.com/ekhumbata/Adventures-in-Duckietown)
