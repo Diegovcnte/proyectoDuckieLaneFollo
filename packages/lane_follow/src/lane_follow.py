@@ -1,15 +1,10 @@
 #!/usr/bin/env python3
-import dt_apriltags
-import argparse
 import cv2
 
 import os
 import rospy
-from sensor_msgs.msg import CameraInfo
-from duckietown_msgs.srv import ChangePattern
 from sensor_msgs.msg import CompressedImage
-from duckietown_msgs.msg import WheelsCmdStamped, Twist2DStamped
-from std_msgs.msg import String
+from duckietown_msgs.msg import Twist2DStamped
 from duckietown.dtros import DTROS, NodeType
 import numpy as np
 
