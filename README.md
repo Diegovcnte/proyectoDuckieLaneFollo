@@ -60,4 +60,4 @@ To run:
 
 You can see results in presentation videos.
 
-The code in this directory is taken and adapted from [dt-core](https://github.com/duckietown/dt-core) and [here](https://github.com/ekhumbata/Adventures-in-Duckietown)
+The code in this directory is taken and adapted from [dt-core](https://github.com/duckietown/dt-core) and [Adventures-in-Duckietown](https://github.com/ekhumbata/Adventures-in-Duckietown)
