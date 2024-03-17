@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <name>lane_follow</name>
+  <version>1.0.0</version>
+  <description>The lane follow meta package</description>
+
+  <license>GPLv3</license>
+<maintainer email="manjunath311020@gmail.com">Manjunath Naidugari</maintainer>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
