@@ -52,7 +52,8 @@ command.
 
 ### 6. Run
 change the ROBOT_NAME in default.sh in launchers folder
-to build:
+To build:
 ```dts devel build -H ROBOT_NAME -f``` or ```dts devel build -f```
-to run:
+
+To run:
 ```dts devel run -H ROBOT_NAME``` or ```dts devel run -R ROBOT_NAME```
