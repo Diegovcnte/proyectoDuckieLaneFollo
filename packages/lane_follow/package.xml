@@ -5,7 +5,7 @@
   <description>The lane follow meta package</description>
 
   <license>GPLv3</license>
-<maintainer email="manjunath311020@gmail.com">Manjunath Naidugari</maintainer>
+<maintainer email="contacto@tecbit.cl">Tecbit</maintainer>
 
   <buildtool_depend>catkin</buildtool_depend>
 </package>
